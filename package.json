@@ -1,0 +1,24 @@
+{
+  "name": "practicafinal",
+  "description": "Practica NodeJS FullSctakGE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusColladoOlinero/JavaScript_Node.JS.git"
+  },
+  "author": "Jesus Collado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusColladoOlinero/JavaScript_Node.JS/issues"
+  },
+  "homepage": "https://github.com/JesusColladoOlinero/JavaScript_Node.JS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
